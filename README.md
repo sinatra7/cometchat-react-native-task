@@ -57,7 +57,7 @@ Make sure your Android emulator is running before launching.
 ## Report & Screenshots
 You’ll find the detailed project report and screenshots in folder:
 
-CometChat_Internship_Report_Professional.pdf
+CometChat_Internship_Report.pdf
 
 Emulator screenshots (user list, chat screen, dashboard)
 
