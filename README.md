@@ -77,7 +77,6 @@ Creating a complete, functional chat interface
 ---
 
 📬 Contact
-Hrishab Kakoty
 Email: hrishabkakoty21@gmail.com
 GitHub: github.com/sinatra7
 
