@@ -1,4 +1,4 @@
-# CometChat React Native Integration – Internship Task
+# CometChat React Native Integration – Task
 
 This project demonstrates the integration of the CometChat SDK in a React Native mobile application. It was built as part of the CometChat internship task and includes user login, listing, and basic chat functionality using custom components.
 
